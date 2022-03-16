@@ -27,6 +27,8 @@ You can find the test cases in folder `screens>Location>__test__`
 - react-testing-library for testing
 - SCSS for variables
 
+> Please note, you can find the Google API key in .env file, if for some reason the key doesn't work, please use your own Google API key and make sure it has permissions for Google Places API
+
 ## Author
 
 Abhijit Nair - nairabhijit6@gmail.com
