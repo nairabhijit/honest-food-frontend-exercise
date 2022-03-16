@@ -1,0 +1,10 @@
+$primary-color: #2ba44e;
+
+// change the bootstrap theme colors
+$theme-colors: (
+  "primary": $primary-color,
+);
+.btn-primary {
+  color: #fff !important;
+}
+@import "bootstrap";
